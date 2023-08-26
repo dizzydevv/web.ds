@@ -1,0 +1,96 @@
+.main-head {
+  padding-top: 24px;
+  background-size: cover;
+  height: 700px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.welcome {
+  text-align: center;
+  font-family: Hind Siliguri;
+  font-weight: 500;
+  font-size: 20px;
+  color: white;
+  margin-bottom: 0;
+}
+
+.logo {
+  margin-top: -9px;
+ margin-left:403.5px;
+ height: 100px;
+}
+
+.main {
+  width: 100%;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  color:white;
+}
+
+.sub-main {
+  align-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+  font-family: Hind Siliguri;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+
+.desc {
+  margin-top: 0;
+  text-align: center;
+  font-size: 15px;
+  font-family: Hind Siliguri;
+  font-weight: 400;
+}
+
+.join-btn {
+  text-align: center;
+}
+
+.btn-join {
+font-family: Hind Siliguri;
+font-weight: normal;
+background-color: rgb(255,255,255);
+color: rgb(0, 0, 0);
+border:none;
+border-radius: 5px;
+cursor: pointer;
+margin-right: 8px;
+margin-left: 8px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 16px;
+padding-right: 16px;
+vertical-align: top;
+transition: border-radius,0.15s;
+
+}
+
+.btn-join {
+font-family: Hind Siliguri;
+font-weight: 500;
+background-color: rgb(19, 122, 218);
+font-size: 15px;
+color: rgb(255, 255, 255);
+border:none;
+border-radius: 100px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 25px;
+padding-right: 25px;
+box-shadow: 5px 5px 10px rgba(160, 199, 236, 0);
+  transition: box-shadow 0.15s;
+}
+
+.btn-join:hover {
+  box-shadow: 5px 5px 10px rgba(160, 199, 236, 0.966);
+}
